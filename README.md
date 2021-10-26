@@ -199,8 +199,7 @@ Habrá varias pistas en el juego:
 
 ●	Una pista para cada mapa.
 
-●	Una canción para la pantalla de resultados, la misma para todos los mapas.
-
+●	Una canción para la pantalla de resultados, la misma para todos los mapas. 
 
 ### 5.2- Efectos de sonido
 Tipos de efectos de sonidos:
