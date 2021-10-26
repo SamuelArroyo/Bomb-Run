@@ -287,8 +287,7 @@ Este juego está basado en el videojuego clásico “Bomberman”.
 
 - Web de Super Bomberman R: https://www.konami.com/games/bomberman/online/eu/es/
 
-- Imagen de fondo en menú principal: (https://store.playstation.com/es-es/product/EP0101-CUSA10662_00-MAINGAME00000000/)
-- [I'm an inline-style link](https://www.google.com)
+- Imagen de fondo en menú principal: https://store.playstation.com/es-es/product/EP0101-CUSA10662_00-MAINGAME00000000/
 
 - Para referencias de GDD, se han utilizado las siguientes:
 https://www.gamasutra.com/view/feature/3384/the_anatomy_of_a_design_document_.php
