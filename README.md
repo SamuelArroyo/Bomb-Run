@@ -240,8 +240,11 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 
 
 ### 4.4- Powerups
+
 <img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
-### 4.5 - Fondos
+
+### 4.5- Fondos
+
 - Fondos del menú boceto
 <img src="https://user-images.githubusercontent.com/84718977/138939762-e400e743-134e-4ae3-ace3-aa841bd66db0.png" width="500">
 
