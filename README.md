@@ -98,11 +98,11 @@ La referencia cultural de este personaje es los kamikazes japoneses de la segund
 -Pavlichenko: Mujer soldado rusa que participó en la segunda guerra mundial con sus dotes de francotiradora. Su bomba es Nagant.
 La referencia cultural de este personaje es la famosa mujer rusa, Liudmila Mijáilivna Pavlichenko que participó en la segunda guerra mundial como francotiradora luchando contra los nazis.
 
-<img src="https://static3.abc.es/media/historia/2017/10/25/pavlichenko-ke0E--1240x698@abc.jpg" width="350">
+<img src="https://static3.abc.es/media/historia/2017/10/25/pavlichenko-ke0E--1240x698@abc.jpg" width="500">
 
 -Citron: Robot de desactivación de bombas que es capaz de manejar sus bombas de forma remota y estallarlas cuando él desea. Su bomba es C4. 
 
-<img src="https://i.ytimg.com/vi/n5NeTECx6Fo/maxresdefault.jpg" width="350">
+<img src="https://i.ytimg.com/vi/n5NeTECx6Fo/maxresdefault.jpg" width="500">
 
 La referencia cultural de este personaje se basa en los robots actuales encargados de la desactivación de artefactos explosivos.
 
