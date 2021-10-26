@@ -282,7 +282,7 @@ Tipos de efectos de sonidos:
 
 ●	Al volver atrás en el menú
 
-6.0-Bibliografía
+## 6.0-Bibliografía
 Este juego está basado en el videojuego clásico “Bomberman”. 
 
 - Web de Super Bomberman R: https://www.konami.com/games/bomberman/online/eu/es/
