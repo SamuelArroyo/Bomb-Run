@@ -1,4 +1,5 @@
 # Bomb & Run
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/logo1.png" width="500">
 ## Documento de Diseño de Juego
 ### 27 de octubre de 2021
 ### Grado en Diseño y Desarrolo de Videojuegos
