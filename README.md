@@ -194,6 +194,8 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
  
 ## 4.0-Arte
 ### 4.1- Interfaces de juego
+- Esquema de pantallas
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Mapa.PNG" width="500">
 ### 4.2 - Personajes
 ### 4.3- Bombas
 ### 4.4- Powerups
