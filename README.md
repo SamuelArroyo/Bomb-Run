@@ -212,8 +212,32 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/resultados.PNG" width="500">
 
 ### 4.2 - Personajes
+- Pavlichenko boceto 1
+<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+- Pavlichenko boceto 2
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/P6.png" width="500">
+- Pavlichenko boceto 3
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/P5.png" width="500">
+- Hirosaki boceto 1
+<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+- Hirosaki boceto 2
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/P4.png" width="500">
+- Citron boceto 1
+<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+
 ### 4.3- Bombas
+- Fatboi boceto 1
+<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+
+- C4 boceto 1
+<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+
+- Nagant boceto 1
+<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+
+
 ### 4.4- Powerups
+<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
 ### 4.5 - Fondos
 - Fondos del menú boceto
 <img src="https://user-images.githubusercontent.com/84718977/138939762-e400e743-134e-4ae3-ace3-aa841bd66db0.png" width="500">
