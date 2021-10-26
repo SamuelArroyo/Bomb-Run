@@ -216,10 +216,10 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 ### 4.4- Powerups
 ### 4.5 - Fondos
 - Fondos del menú boceto
-![image](https://user-images.githubusercontent.com/84718977/138939762-e400e743-134e-4ae3-ace3-aa841bd66db0.png | width=100)
-- Fondo de personaje boceto
-![image](https://user-images.githubusercontent.com/84718977/138939796-79ca40ab-671b-45e0-bda7-12ae59793d88.png | width=100)
+<img src="https://user-images.githubusercontent.com/84718977/138939762-e400e743-134e-4ae3-ace3-aa841bd66db0.png" width="500">
 
+- Fondo de personaje boceto
+<img src="https://user-images.githubusercontent.com/84718977/138939796-79ca40ab-671b-45e0-bda7-12ae59793d88.png" width="500">
 
 ## 5.0 Música y efectos de sonido
 ### 5.1- Música
