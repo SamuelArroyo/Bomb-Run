@@ -102,6 +102,10 @@ La referencia cultural de este personaje es la famosa mujer rusa, Liudmila Mijá
 
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
+<img src="https://static3.abc.es/media/historia/2017/10/25/pavlichenko-ke0E--1240x698@abc.jpg" width="208">
+
 -Citron: Robot de desactivación de bombas que es capaz de manejar sus bombas de forma remota y estallarlas cuando él desea. Su bomba es C4. 
 ![Robot desactiva bombas](https://i.ytimg.com/vi/n5NeTECx6Fo/maxresdefault.jpg) 
 La referencia cultural de este personaje se basa en los robots actuales encargados de la desactivación de artefactos explosivos.
