@@ -240,8 +240,9 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 
 
 ### 4.4- Powerups
-
-<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Pup.png" width="200">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Pup%202.png" width="200">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Pup%203.png" width="200">
 
 ### 4.5- Fondos
 
