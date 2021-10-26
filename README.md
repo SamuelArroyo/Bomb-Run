@@ -131,20 +131,16 @@ Dentro del mapa los jugadores aparecerán en una de las esquinas de forma aleato
 Cada mapa posee un tiempo máximo en el que los jugadores pueden intentar obtener puntos, el tiempo de cada mapa será de dos minutos, tras estos dos minutos aparecerá una pantalla en grande que mostrará a los jugadores la cantidad de puntos que tienen y el número de vidas que les quedan y se empieza con el siguiente mapa hasta llegar al último de ellos donde se mostrará el jugador que ha ganado más puntos y que por lo tanto es el ganador.
 
 Si uno de los jugadores pierde todas las vidas antes de llegar al final de tiempo del último mapa, entonces aparecerá directamente la pantalla del jugador que ha quedado con vida y por lo tanto el ganador. 
-
-### 2.7- Puntos
-
-El sistema de puntos de Bomb & Run es el eje central del juego ya que es el que decide quién gana y quién pierde además de las vidas.
   
-La forma de obtener puntos es destruyendo los muros correspondientes y quitándole vidas al jugador contrario, si el contrario se queda sin vidas este perderá directamente, independientemente del número de puntos que este tuviera.
-  
-### 2.8 - Controles
+### 2.7 - Controles
 
 Los controles de Bomb & Run son muy sencillos, lo conforman el movimiento del personaje que se realizan con W, S, A, D; la W sería el movimiento vertical hacia arriba, la S el movimiento vertical hacia abajo, la A es el movimiento horizontal hacia la izquierda y la D que sería el movimiento horizontal hacia derecha.
 
 La forma que tienen los jugadores de poner bombas es pulsando la barra espaciadora y colocarán una bomba en el mismo píxel donde está el personaje que lo coloca.
 
-### 2.9 - Interacción entre elementos
+El personaje Citron, coloca las bombas con la barra espaciadora, y detona estas la próxima vez que pulse esa misma tecla.
+
+### 2.8 - Interacción entre elementos
 
 Los personajes no pueden estorbarse entre sí, evitando así encerrar a otro personaje con el tuyo propio. No obstante, los personajes no pueden pasar por encima tanto de sus bombas propias como de bombas enemigas. 
 
@@ -156,6 +152,19 @@ La forma de un jugador de obtener un power-up será caminando por encima de este
   
 Las bombas pueden demoler los bloques normales, los cuales tienen una probabilidad de soltar un power-up aleatorio. No obstante, las bombas no afectarán a los bloques metálicos.
 	
+### 2.9 - Multijugador 
+
+#### 2.9.1 - Multijugador Local
+En cuanto al multijugador local, este tiene lugar en una única pantalla, por lo cual la interfaz es la misma para ambos jugadores, con una pantalla final de puntuaciones de todos los jugadores, y en lugar de una pantalla de victoria o derrota, aparece un podio en la que los personajes están situados según la puntuación de sus respectivos jugadores.
+
+Los controles en multijugador local añaden la caqpacidad de que el segundo jugador pueda utilizar las flechas del teclado para moverse y la tecla 'intro' para colocar bombas.
+
+#### 2.9.2 - Multijugador online
+Todos los personajes comparten una misma interfaz durante el transcurso de la partida. Una pantalla compartida de puntuaciones, una pantalla compartida de podio, incluso la pantalla de juego es la misma al tratarse de un juego del género 'maze gamees', transcurriendo toda la acción en la misma pantalla sin movimientos de cámara.
+La interfaz está diseñada para mostrar el máximo de información posible a todos los jugadores, tanto de su propio personaje como de personajes enemigos.
+
+Cada jugador podrá detectar su propio personaje mediante una flecha que aparece únicamente sobre la cabeza de su personaje cada vez que este aparece en el mapa, y tan sólo él podrá ver.
+
 ## 3.0-Interfaz
 
 ### 3.1- Menú de Juego
