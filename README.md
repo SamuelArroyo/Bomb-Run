@@ -1,5 +1,5 @@
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/logo1.png" width="500">
 # Bomb & Run
-
 ## Documento de Diseño de Juego
 ### 27 de octubre de 2021
 ### Grado en Diseño y Desarrolo de Videojuegos
@@ -8,7 +8,7 @@
 ## 1.0-Introducción
 Este es el documento de diseño de Bomb & Run, un videojuego para ordenador online con estética pixel art. Se desarrollará en 2D gracias al motor Unity. El objetivo de este documento es mostrar al lector y dejar bien registrado todos los elementos de Bomb & Run y servirá de portada para mostrar Bomb & Run.
 ### 1.1-Concepto
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/logo1.png" width="500">
+
 Bomb & Run es un videojuego competitivo en el cual cada jugador tendrá como objetivo 
 ganar al contrincante obteniendo el mayor número de puntos posibles utilizando como arma base del juego las bombas, las cuales 
 serán su única herramienta para destruir partes del mapa y sobre todo eliminar al contrario.
