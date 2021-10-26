@@ -1,7 +1,7 @@
 # Bomb & Run
 ## Documento de Diseño de Juego
 ### 27 de octubre de 2021
-### Grado en diseño y Desarrolo de Videojuegos
+### Grado en Diseño y Desarrolo de Videojuegos
 ### URJC, Campus de Móstoles
 ### Juegos en red
 ## 1.0-Introducción
