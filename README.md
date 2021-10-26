@@ -256,7 +256,7 @@ Habrá varias pistas en el juego:
 
 ●	Una música específica para cada tipo de personaje:
 
-○	En el selector de personaje, cuando el jugador tenga en pantalla un personaje seleccionado, se mostrará el personaje acompañado de su tema musical.
+- En el selector de personaje, cuando el jugador tenga en pantalla un personaje seleccionado, se mostrará el personaje acompañado de su tema musical.
 
 ●	Una pista para cada mapa.
 
