@@ -1,4 +1,4 @@
-# Bomb-Run
+# Bomb & Run
 ## Documento de Diseño de Juego
 ### 27 de Octubre de 2021
 ### Grado en diseño y Desarrolo de Videojuegos
