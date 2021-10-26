@@ -229,13 +229,13 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 
 ### 4.3- Bombas
 - Fatboi boceto 1
-<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+<img src="https://user-images.githubusercontent.com/84718977/138941586-06c4a882-8a18-4653-b18c-ef30c498a224.png" width="500">
 
 - C4 boceto 1
-<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+<img src="https://user-images.githubusercontent.com/84718977/138941685-36752443-cd94-457b-82ca-c4de21cc159c.png" width="500">
 
 - Nagant boceto 1
-<img src="hhttps://user-images.githubusercontent.com/84718977/138940211-beeb998f-e269-41a7-8bf4-7a3dfa89e5cc.png" width="500">
+<img src="https://user-images.githubusercontent.com/84718977/138941757-6b5c2195-a946-44b5-a2bd-1946434caa2e.png" width="500">
 
 
 ### 4.4- Powerups
@@ -282,3 +282,18 @@ Tipos de efectos de sonidos:
 
 ●	Al volver atrás en el menú
 
+6.0-Bibliografía
+Este juego está basado en el videojuego clásico “Bomberman”. 
+
+- Web de Super Bomberman R: https://www.konami.com/games/bomberman/online/eu/es/
+
+- Imagen de fondo en menú principal: (https://store.playstation.com/es-es/product/EP0101-CUSA10662_00-MAINGAME00000000/)
+- [I'm an inline-style link](https://www.google.com)
+
+- Para referencias de GDD, se han utilizado las siguientes:
+https://www.gamasutra.com/view/feature/3384/the_anatomy_of_a_design_document_.php
+https://github.com/dsaltares/sion-tower/blob/master/doc/gdd/gdd.pdf  
+http://manualdelgamedesigner.blogspot.com/2014/08/design-document-gdd.html 
+http://manualdelgamedesigner.blogspot.com/2014/10/como-organizar-efectivamente-el.html
+
+- Enlace a GitHub del grupo: https://github.com/SamuelArroyo/Bomb-Run
