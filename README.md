@@ -9,6 +9,8 @@
 ### Juegos en red
 ## 1.0-Introducción
 Este es el documento de diseño de Bomb & Run, un videojuego para ordenador online con estética pixel art. Se desarrollará en 2D gracias al motor Unity. El objetivo de este documento es mostrar al lector y dejar bien registrado todos los elementos de Bomb & Run y servirá de portada para mostrar Bomb & Run.
+Esto es un texto de prueba.
+
 ### 1.1-Concepto
 
 Bomb & Run es un videojuego competitivo en el cual cada jugador tendrá como objetivo 
