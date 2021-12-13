@@ -9,7 +9,6 @@
 ### Juegos en red
 ## 1.0-Introducción
 Este es el documento de diseño de Bomb & Run, un videojuego para ordenador online con estética pixel art. Se desarrollará en 2D gracias al motor Unity. El objetivo de este documento es mostrar al lector y dejar bien registrado todos los elementos de Bomb & Run y servirá de portada para mostrar Bomb & Run.
-Esto es un texto de prueba.
 
 ### 1.1-Concepto
 
@@ -74,15 +73,12 @@ Power Ups: Son mejoras de bomba y habilidades que al destruir un muro tiene una 
 
 En Bomb & Run las formas de sumar puntos son las siguientes:
 
-⦁	Romper Muros: Cada vez que un jugador rompa un muro su puntuación aumentará en 10.
+⦁	Romper Muros: Cada vez que un jugador rompa un muro su puntuación aumentará en 5.
 
-⦁	Matar al jugador contrario: Cada vez que un jugador elimina al jugador contrario su puntuación aumentará en 15.
+⦁	Matar al jugador contrario: Cada vez que un jugador elimina al jugador contrario su puntuación aumentará en 30.
 
-⦁	Recoger power ups: Cada vez que un jugador coja un power up su puntuación aumentará en 1.  
+⦁	Recoger power ups: Cada vez que un jugador coja un power up su puntuación aumentará en 5.  
 
-En Bomb & Run las formas de perder puntos son las siguientes:
-
-⦁	Perder una vida: Cuando un jugador es eliminado por el jugador contrario perderá 15 puntos.
 
 La puntuación es una de las condiciones de victoria del juego.
 
@@ -264,34 +260,12 @@ Habrá varias pistas en el juego:
 
 ●	Una pista para el menú, a modo de tema principal.
 
-●	Una música específica para cada tipo de personaje:
-
-- En el selector de personaje, cuando el jugador tenga en pantalla un personaje seleccionado, se mostrará el personaje acompañado de su tema musical.
+●	Una pista para la selección de personaje.
 
 ●	Una pista para cada mapa.
 
 ●	Una canción para la pantalla de resultados, la misma para todos los mapas. 
 
-### 5.2- Efectos de sonido
-Tipos de efectos de sonidos:
-
-●	Movimiento básico de cada jugador
-
-●	Al colocar una bomba.
-
-●	Bomba al explotar.
-
-●	Recibir power up
-
-●	Utilizar power up
-
-●	Muro al destruirse
-
-●	Al cambiar entre botones del juego
-
-●	Al aceptar algún comando del menú
-
-●	Al volver atrás en el menú
 
 ## 6.0-Bibliografía
 Este juego está basado en el videojuego clásico “Bomberman”. 
