@@ -113,13 +113,13 @@ La referencia cultural de este personaje se basa en los robots actuales encargad
 
 ●	Reloj: Reduce el tiempo de detonación de las bombas.
 
-●	Vida extra: añade una vida adicional al jugador que la recoja.
+●	Vida extra: añade una vida adicional al jugador que la recoja. (No incluido)
 
-●	Sabotaje: revienta una bomba rival al instante.
+●	Sabotaje: revienta una bomba rival al instante. (No incluido)
 
 ●	Escudo: vuelve temporalmente al jugador inmune a las explosiones.
 
-●	Bomba láser: la siguiente bomba del jugador será una bomba láser de rango infinito.
+●	Bomba láser: la siguiente bomba del jugador será una bomba láser de rango infinito. (No incluido)
 
 ### 2.6- Mapa
 
@@ -201,40 +201,36 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 - Menú principal
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/menu.png" width="500">
 
-- Mapa
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/mapa1.png" width="500">
-
 - Selección de personaje
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/seleccion.png" width="500">
+
+- Mapa
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/mapa1.png" width="500">
 
 - Final de juego
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/final.png" width="500">
 
 ### 4.2 - Personajes
-- Pavlichenko boceto 1
-<img src="https://user-images.githubusercontent.com/84718977/138941200-bb0f54d4-6258-4887-a599-cddb9f262360.png" width="500">
-- Pavlichenko boceto 2
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/P6.png" width="500">
-- Pavlichenko boceto 3
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/P5.png" width="500">
-- Hirosaki boceto 1
-<img src="https://user-images.githubusercontent.com/84718977/138941279-f76ee82f-1d15-44c2-a82e-bddc0137eff8.png" width="500">
+- Pavlichenko 
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/Personajes/RusaconFondo.png" width="500">
 
-- Hirosaki boceto 2
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/P4.png" width="500">
-- Citron boceto 1
-<img src="https://user-images.githubusercontent.com/84718977/138941431-86598678-178a-49a2-ae3c-6c285e2db19b.png" width="500">
+- Hirosaki 
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/Personajes/JapoConfondo.png" width="500">
+
+- Citron
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/Personajes/RobotConFondo.png" width="500">
+
 
 
 ### 4.3- Bombas
-- Fatboi boceto 1
-<img src="https://user-images.githubusercontent.com/84718977/138941586-06c4a882-8a18-4653-b18c-ef30c498a224.png" width="500">
+- Fatboi 
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/BombasPersonajes/BombaJapo.png" width="500">
 
-- C4 boceto 1
-<img src="https://user-images.githubusercontent.com/84718977/138941685-36752443-cd94-457b-82ca-c4de21cc159c.png" width="500">
+- Nagant 
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/BombasPersonajes/BombaURSS.png" width="500">
 
-- Nagant boceto 1
-<img src="https://user-images.githubusercontent.com/84718977/138941757-6b5c2195-a946-44b5-a2bd-1946434caa2e.png" width="500">
+- C4 
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Juego/BombasPersonajes/C4.png" width="500">
 
 
 ### 4.4- Powerups
