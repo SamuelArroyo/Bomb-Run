@@ -199,16 +199,16 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Flowchart.png" width="500">
 
 - Menú principal
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Menu.PNG" width="500">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/menu.png" width="500">
 
 - Mapa
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Mapa.PNG" width="500">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/mapa1.png" width="500">
 
-- Puntuación
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/puntuacion.PNG" width="500">
+- Selección de personaje
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/seleccion.png" width="500">
 
 - Final de juego
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/resultados.PNG" width="500">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/final.png" width="500">
 
 ### 4.2 - Personajes
 - Pavlichenko boceto 1
@@ -240,19 +240,21 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 ### 4.4- Powerups
 
 <p float="left">
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Pup.png" width="200">
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Pup%202.png" width="200">
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/Im%C3%A1genes/Pup%203.png" width="200">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Botas.png" width="200">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Escudo.png" width="200">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Polvora.png" width="200">
+</p>
+<p float="left">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Reloj.png" width="200">
+
 </p>
 
 
 ### 4.5- Fondos
 
-- Fondos del menú boceto
-<img src="https://user-images.githubusercontent.com/84718977/138939762-e400e743-134e-4ae3-ace3-aa841bd66db0.png" width="500">
+- Fondos del menú 
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/fondo.jpg" width="500">
 
-- Fondo de personaje boceto
-<img src="https://user-images.githubusercontent.com/84718977/138939796-79ca40ab-671b-45e0-bda7-12ae59793d88.png" width="500">
 
 ## 5.0 Música y efectos de sonido
 ### 5.1- Música
