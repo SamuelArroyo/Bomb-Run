@@ -196,13 +196,22 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 ## 4.0-Arte
 ### 4.1- Interfaces de juego
 - Esquema de pantallas
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Flowchart.png" width="500">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Flowchart3.png" width="500">
 
 - Menú principal
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/menu.png" width="500">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/menu2.png" width="500">
+
+- Login
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/login.png" width="500">
+
+- LeaderBoard
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/top.png" width="500">
+
+- Tutorial
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/tuto.png" width="500">
 
 - Selección de personaje
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/seleccion.png" width="500">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/charSelect2.png" width="500">
 
 - Mapa
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/mapa1.png" width="500">
@@ -263,9 +272,10 @@ Habrá varias pistas en el juego:
 ●	Una pista para cada mapa.
 
 ●	Una canción para la pantalla de resultados, la misma para todos los mapas. 
+## 6.0-Instrucciones de uso de la API Rest
+Ante la imposibilidad de crear un .jar ejecutable funcional, para el uso del juego con la api es necesario tener instalado Eclipse con SpringBoot. Siendo necesario la creacion de un proyecto de Spring Web y copiando los archivos a las carpetas requeridas. 
 
-
-## 6.0-Bibliografía
+## 7.0-Bibliografía
 Este juego está basado en el videojuego clásico “Bomberman”. 
 
 - Web de Super Bomberman R: https://www.konami.com/games/bomberman/online/eu/es/
