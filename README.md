@@ -196,7 +196,7 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 ## 4.0-Arte
 ### 4.1- Interfaces de juego
 - Esquema de pantallas
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Flowchart3.png" width="500">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Flowchart4.png" width="500">
 
 - Menú principal
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/menu2.png" width="500">
