@@ -161,7 +161,7 @@ En cuanto al multijugador local, este tiene lugar en una única pantalla, por lo
 Los controles en multijugador local añaden la caqpacidad de que el segundo jugador pueda utilizar las flechas del teclado para moverse y la tecla 'intro' para colocar bombas.
 
 #### 2.9.2 - Multijugador online (WebSockets)
-Para la implementación y uso de Websokets se ha creado una clase llamada "MultiHandler". Esta clase maneja la llegada y el envío de información, y se ha de hacer cuando se pierde la conexion. Además, incluye varias estructuras de datos como colas y mapas hash para el almacenamiento y envío de datos. De la forma en la que esta diseñada esta clase, se permite el juego a más de 2 jugadores, pero siempre en parejas de dos. El jugador que establezca conexión primero con el servidor será el jugador nº1, y el siguiente el nº2. De momento, este modo permite jugar en un mapa con dos peronajes.
+Para la implementación y uso de Websockets se ha creado una clase llamada "MultiHandler". Esta clase maneja la llegada y el envío de información, y se ha de hacer cuando se pierde la conexión. Además, incluye varias estructuras de datos como colas y mapas hash para el almacenamiento y envío de datos. De la forma en la que está diseñada esta clase, se permite el juego a más de 2 jugadores, pero siempre en parejas de dos. El jugador que establezca conexión primero con el servidor será el jugador nº1, y el siguiente el nº2. De momento, este modo permite jugar en un mapa con dos personajes.
 
 ## 3.0-Interfaz
 
