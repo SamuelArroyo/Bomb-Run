@@ -160,11 +160,8 @@ En cuanto al multijugador local, este tiene lugar en una única pantalla, por lo
 
 Los controles en multijugador local añaden la caqpacidad de que el segundo jugador pueda utilizar las flechas del teclado para moverse y la tecla 'intro' para colocar bombas.
 
-#### 2.9.2 - Multijugador online
-Todos los personajes comparten una misma interfaz durante el transcurso de la partida. Una pantalla compartida de puntuaciones, una pantalla compartida de podio, incluso la pantalla de juego es la misma al tratarse de un juego del género 'maze gamees', transcurriendo toda la acción en la misma pantalla sin movimientos de cámara.
-La interfaz está diseñada para mostrar el máximo de información posible a todos los jugadores, tanto de su propio personaje como de personajes enemigos.
-
-Cada jugador podrá detectar su propio personaje mediante una flecha que aparece únicamente sobre la cabeza de su personaje cada vez que este aparece en el mapa, y tan sólo él podrá ver.
+#### 2.9.2 - Multijugador online (WebSockets)
+Para la implementación y uso de Websokets se ha creado una clase llamada "MultiHandler" que maneja la llegada, el envio de informacion y se ha de hacer cuando se pierde la conexion. Ademas inclulle varas estructuras de datos como colas y mapas hash para el almacenamiento y envio de datos. De la forma en la que esta diseñada esta clase se permite el juego a mas de 2 jugadores, pero siempre en parejas de a 2 y segun el que establezca conexion primero con el servidor sera el jugador nº1 y el siguiente el nº2. De momento este modo permite jugar en un mapa con 2 peronajes.
 
 ## 3.0-Interfaz
 
