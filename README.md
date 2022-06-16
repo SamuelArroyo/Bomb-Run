@@ -196,7 +196,7 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/Flowchart4.png" width="500">
 
 - Menú principal
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/menu2.png" width="500">
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/menu3.png" width="500">
 
 - Login
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/login.png" width="500">
