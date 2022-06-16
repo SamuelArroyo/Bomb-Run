@@ -207,8 +207,8 @@ Por último, la última interfaz es la pantalla de victoria y derrota, donde pon
 - Tutorial
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/tuto.png" width="500">
 
-- Selección de personaje
-<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/charSelect2.png" width="500">
+- Selección de personaje (On-Line)
+<img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/charSelect3.png" width="500">
 
 - Mapa
 <img src="https://github.com/SamuelArroyo/Bomb-Run/blob/main/sources/im%C3%A1genes/mapa1.png" width="500">
